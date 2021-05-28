@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mariamiska
-- 👀 I’m interested in full stack developer.
+- 👀 I’m interested in being a full stack developer.
 - 🌱 I’m currently learning frontend developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
