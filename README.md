@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariamiska
-- 👀 I’m interested in being a full stack developer.
-- 🌱 I’m currently learning frontend developer.
+- 👀 I’m a Full Stack Developer, JAVA, Spring.
+- 🌱 I’m currently learning JS and Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
